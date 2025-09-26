@@ -1,3 +1,9 @@
+WEATHER API FORECAST
+<img width="1894" height="842" alt="Screenshot 2025-09-26 085415" src="https://github.com/user-attachments/assets/c468cb0b-d281-41e2-a185-324f150c8eef" />
+
+
+<img width="1893" height="848" alt="Screenshot 2025-09-26 085435" src="https://github.com/user-attachments/assets/3e5c04b3-da55-4ebc-8d33-80b73b8f7092" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
